@@ -1,4 +1,4 @@
-[{
+{ "contacts" : [{
   "id": 1,
   "first_name": "Julissa",
   "email": "jtredwell0@etsy.com",
@@ -23,29 +23,5 @@
   "first_name": "Edeline",
   "email": "estennet4@histats.com",
   "city": "Nizhneivkino"
-}, {
-  "id": 6,
-  "first_name": "Erny",
-  "email": "epalombi5@dailymail.co.uk",
-  "city": "Darkton"
-}, {
-  "id": 7,
-  "first_name": "Sandra",
-  "email": "sscholl6@wiley.com",
-  "city": "Hamakita"
-}, {
-  "id": 8,
-  "first_name": "Calvin",
-  "email": "cbakesef7@xing.com",
-  "city": "Orvalho"
-}, {
-  "id": 9,
-  "first_name": "Cos",
-  "email": "cgulliver8@geocities.com",
-  "city": "Brandfort"
-}, {
-  "id": 10,
-  "first_name": "Bobbee",
-  "email": "bmuff9@cornell.edu",
-  "city": "Taishihe"
 }]
+}
