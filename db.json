@@ -14,5 +14,11 @@
     "first_name": "Siva Shankar",
     "email": "Siva@etsy.com",
     "city": "Chennai"
+  },             
+  {
+    "id": 7,
+    "first_name": "Siva Rm K",
+    "email": "Siva2@etsy.com",
+    "city": "Trivandrum"
   }]
 }
